@@ -31,9 +31,9 @@ namespace UnitTestingExercise
             return minuend - subtrahend;
         }
 
-        public int Multiply(int product1, int product2)
+        public int Multiply(int factor1, int factor2)
         {
-            return product1 * product2;
+            return factor1 * factor2;
         }
 
         public int Divide(int dividend, int divisor)
